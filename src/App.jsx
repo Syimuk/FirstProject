@@ -21,6 +21,8 @@ export default function App() {
         referrerpolicy="strict-origin-when-cross-origin"
         allowfullscreen
       ></iframe>
+
+      <p>Bye Bye!</p>
     </div>
   );
 }
